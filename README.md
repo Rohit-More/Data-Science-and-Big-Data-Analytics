@@ -15,7 +15,7 @@
 <img src='' />
 </p>-->
 
-- 🔭 I’m interested in Web Development and Data Science
+- 🔭 I’m interested in Web Development and Data Science.
 - 🌱 I’m currently learning Web development and Data Science.
 - 👯 I’m looking to collaborate on Web Dev and Data Science projects.
 - 🤔 I’m looking for help to start with an Open Source contributions.
